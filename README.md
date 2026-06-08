@@ -237,7 +237,6 @@ Contributions included:
 ---
 
 ## 🎓 Conclusion
-
 This project demonstrates how effective preprocessing, ensemble machine learning techniques and Explainable AI can be combined to develop accurate and interpretable models for predicting H1N1 vaccination behaviour.
 
 Among all evaluated models, **Gradient Boosting achieved the strongest overall performance**, while SHAP analysis provided valuable insights into the key factors influencing vaccination decisions.
