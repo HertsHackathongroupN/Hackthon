@@ -3,7 +3,7 @@
 
 🚀 Data Science Hackathon Project
 
-📊 Machine Learning | 🤖 Explainable AI | 🏆 Model Comparison
+📊 Machine Learning | 🤖 Explainable AI | 🏆 
 
 ---
 
